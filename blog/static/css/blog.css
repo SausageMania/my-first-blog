@@ -31,7 +31,11 @@ h1, h2, h3, h4{
     float:right;
 }
 
-.save,.btn{
+.save{
+    float:right;
+}
+
+.btn{
     float:right;
 }
 
